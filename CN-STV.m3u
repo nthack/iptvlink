@@ -24,7 +24,7 @@ http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=37&amp;FvSeid=1&amp;Fsv_
 #EXTINF:-1 ,安徽卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=02&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
 #EXTINF:-1 ,山东卫视高清
-http://124.47.33.200/PLTV/88888888/224/3221225591/index.m3u8
+#http://124.47.33.200/PLTV/88888888/224/3221225591/index.m3u8
 #EXTINF:-1 ,江西卫视高清
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=40&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
 #EXTINF:-1 ,河北卫视高清
